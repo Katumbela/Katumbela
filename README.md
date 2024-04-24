@@ -12,7 +12,7 @@ Olá! Sou um desenvolvedor web full-stack com experiência em diversas áreas, i
 ### Desenvolvedor Web - Centro de Formação Profissional Se Deus Quiser (01/2019 - Presente)
 Responsável pelo desenvolvimento e manutenção de sistemas web para aprimorar os processos de aprendizado e gestão do centro de formação.
 
-### Programador Full-Stack - AROTEC (03/2020 - Presente)
+### Programador Full-Stack - AROTEC (02/2022 - 03/2024)
 Contribuição para projetos de robótica, tecnologias de software e inteligência artificial, desenvolvendo soluções inovadoras para diversos setores.
 
 ### Desenvolvedor FullStack - RCS ANGOLA / EasyPack (Portugal) (02/2024 - Presente)
