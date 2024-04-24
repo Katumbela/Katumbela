@@ -47,32 +47,32 @@ Leitura, Cinema, Histórias, Gastronomia, Turismo, Passeio, Músicas, Debates, D
 
 ## Projetos
 
-1. ![AROTEC - ELVIRA](https://img.icons8.com/ios/50/000000/robot-2.png) [AROTEC - ELVIRA](https://elvira-manager-delta.vercel.app/)
+1. ![AROTEC - ELVIRA](https://img.icons8.com/ios/50/fff/robot-2.png) [AROTEC - ELVIRA](https://elvira-manager-delta.vercel.app/)
    - Gerenciador ELVIRA.
 
-2. ![Kulolesa APP](https://img.icons8.com/ios/50/000000/android-os.png) [Kulolesa APP](https://play.google.com/store/apps/details?id=com.arotec.katumbela.kulolesa)
+2. ![Kulolesa APP](https://img.icons8.com/ios/50/fff/android-os.png) [Kulolesa APP](https://play.google.com/store/apps/details?id=com.arotec.katumbela.kulolesa)
    - Aplicativo Kulolesa.
 
-3. ![ARO CONTROLLER](https://img.icons8.com/ios/50/000000/android-os.png) [ARO CONTROLLER](https://play.google.com/store/apps/details?id=com.katumbela.arotec.arobot.arobot_controller)
+3. ![ARO CONTROLLER](https://img.icons8.com/ios/50/fff/android-os.png) [ARO CONTROLLER](https://play.google.com/store/apps/details?id=com.katumbela.arotec.arobot.arobot_controller)
    - Controlador ARO.
 
-4. ![Se Deus Quiser](https://img.icons8.com/ios/50/000000/website.png) [Se Deus Quiser](https://sedeusquiser.org)
+4. ![Se Deus Quiser](https://img.icons8.com/ios-filled/50/domain.png) [Se Deus Quiser](https://sedeusquiser.org)
    - Website do Centro de Formação Profissional Se Deus Quiser.
 
-5. ![AROTEC WEBSITE](https://img.icons8.com/ios/50/000000/website.png) [AROTEC WEBSITE](https://arotec.ao/pt)
+5. ![AROTEC WEBSITE](https://img.icons8.com/ios-filled/50/domain.png) [AROTEC WEBSITE](https://arotec.ao/pt)
    - Website da empresa AROTEC.
 
-6. ![NEROO EDUCAÇÃO WEBSITE](https://img.icons8.com/ios/50/000000/website.png) [NEROO EDUCAÇÃO WEBSITE](https://neroo-omega.vercel.app)
+6. ![NEROO EDUCAÇÃO WEBSITE](![Uploading image.png…]()) [NEROO EDUCAÇÃO WEBSITE](https://neroo-omega.vercel.app)
    - Website da empresa NEROO Educação.
 
-7. ![Website ISPA](https://img.icons8.com/ios/50/000000/website.png) [Website ISPA (Instituto Superior Politécnico Atlântida)](https://ispatlantida.co.ao)
+7. ![Website ISPA](https://img.icons8.com/ios-filled/50/domain.png) [Website ISPA (Instituto Superior Politécnico Atlântida)](https://ispatlantida.co.ao)
    - Website do Instituto Superior Politécnico Atlântida.
 
-8. ![Meu Website](https://img.icons8.com/ios/50/000000/website.png) [Meu Website - Gokside](https://gokside.site)
+8. ![Meu Website](https://img.icons8.com/ios-filled/50/domain.png) [Meu Website - Gokside](https://gokside.site)
    - Meu website pessoal.
 
-9. ![Reputação 360](https://img.icons8.com/ios/50/000000/website.png) [Reputação 360](https://reputacao360.online)
+9. ![Reputação 360](https://img.icons8.com/ios-filled/50/domain.png) [Reputação 360](https://reputacao360.online)
    - Plataforma de reputação online.
 
-10. ![CRM 360](https://img.icons8.com/ios/50/000000/website.png) [CRM 360 - Echo Link 360](https://crm-360.vercel.app)
+10. ![CRM 360](https://img.icons8.com/ios-filled/50/domain.png) [CRM 360 - Echo Link 360](https://crm-360.vercel.app)
     - Sistema de Customer Relationship Management.
