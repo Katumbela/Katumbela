@@ -1,3 +1,5 @@
+(https://media.licdn.com/dms/image/D4D16AQEhLRXH0QwEVA/profile-displaybackgroundimage-shrink_350_1400/0/1707570299472?e=1719446400&v=beta&t=Egp2bJZFz6GhrU8oANo6fbLFHAvVbPNth9Zj9NbWYx0)
+
 # João Afonso Katombela
 
 ## Sobre Mim
