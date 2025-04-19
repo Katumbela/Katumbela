@@ -23,8 +23,8 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
