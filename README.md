@@ -61,9 +61,8 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
 
 ### 🧠 Inteligência Artificial
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Artificial_Intelligence_logo.svg" alt="AI" width="40" height="40"/>
-</p>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg](https://media.licdn.com/dms/image/v2/D5612AQGzC9_DoSiwAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687576052397?e=2147483647&v=beta&t=vLgFKmvtebVkzP8VF8LJRkcS324yGBKrWZ0l3pfDjGI)" alt="OpenAI" width="80" height="60"/>
+  </p>
 
 ### ⚙️ DevOps & Infraestrutura
 <p>
