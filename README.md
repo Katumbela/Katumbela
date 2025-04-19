@@ -37,6 +37,9 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Artificial_Intelligence_logo.svg" alt="AI" width="40" height="40"/>
+
 </p>
 
 ---
