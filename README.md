@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=katombela&label=Profile+Views&color=blue&style=flat-square" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=katumbela&label=Profile+Views&color=blue&style=flat-square" alt="visitors"/>
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Performant-blue?style=flat-square&logo=codefactor"/>
   <img src="https://img.shields.io/badge/Focus-Efficiency-lightgrey?style=flat-square&logo=vercel"/>
   <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-success?style=flat-square&logo=rocket"/>
@@ -52,8 +52,8 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katombela&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katombela&layout=compact&theme=github_dark" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=katumbela&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katumbela&layout=compact&theme=github_dark" alt="Top Langs" height="160"/>
 </p>
 
 ---
