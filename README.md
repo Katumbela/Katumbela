@@ -35,6 +35,10 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
 ---
 
 ## 🌐 Links  
-- 🔗 [Portfólio](https://katumbela.reputacao360.online)
+- 🔗 [Portfólio](https://katumbela.r360.ao)
+  
+- 🔗 [Linkedin](https://linkedin.com/in/joao-afonso-katumbela)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linkedin-original.svg" alt="Linux" width="40" height="40"/>
+
 
 ---
