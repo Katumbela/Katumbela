@@ -14,12 +14,12 @@
 ---
 
 ## 🧠 Sobre Mim  
-Sou engenheiro de software com atuação sólida em soluções web, mobile e desktop — sempre com foco em performance, escalabilidade e segurança.  
+Sou engenheiro de software com atuação sólida em soluções web, mobile e desktop , sempre com foco em performance, escalabilidade e segurança.  
 Tenho experiência em projetos que exigem visão de produto, domínio técnico e integração inteligente entre sistemas, especialmente nas áreas de automação, inteligência artificial e infraestrutura moderna.
 
 Atuo com tecnologias como React, Next.js, React Native, Flutter, NestJS, Java Spring Boot, Laravel, Python, Docker, Firebase e práticas de CI/CD. Também gerencio servidores Linux e infraestrutura com Traefik, garantindo ambientes leves, estáveis e com deploys automatizados.
 
-Minha especialidade está em transformar desafios técnicos em soluções robustas e eficientes — reduzindo custos, acelerando entregas e melhorando a experiência de usuários e times.
+Minha especialidade está em transformar desafios técnicos em soluções robustas e eficientes , reduzindo custos, acelerando entregas e melhorando a experiência de usuários e times.
 
 ---
 
