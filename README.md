@@ -29,6 +29,7 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
 </p>
@@ -48,7 +49,6 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
 </p>
 
 ### 🗃️ Banco de Dados
@@ -61,7 +61,7 @@ Minha especialidade está em transformar desafios técnicos em soluções robust
 
 ### 🧠 Inteligência Artificial
 <p>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg](https://media.licdn.com/dms/image/v2/D5612AQGzC9_DoSiwAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687576052397?e=2147483647&v=beta&t=vLgFKmvtebVkzP8VF8LJRkcS324yGBKrWZ0l3pfDjGI)" alt="OpenAI" width="80" height="60"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQGzC9_DoSiwAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687576052397?e=2147483647&v=beta&t=vLgFKmvtebVkzP8VF8LJRkcS324yGBKrWZ0l3pfDjGI" alt="OpenAI" width="80" height="60"/>
   </p>
 
 ### ⚙️ DevOps & Infraestrutura
