@@ -14,7 +14,7 @@
 ---
 
 ## 🧠 Sobre Mim  
-Sou Analista de Inovação de Arquiteto de Automação no setor bancário e engenheiro de software com atuação sólida em soluções web, mobile e desktop, sempre com foco em performance, escalabilidade e segurança.  
+Sou Analista de Inovação e Arquiteto de Automação no setor bancário e engenheiro de software com atuação sólida em soluções web, mobile e desktop, sempre com foco em performance, escalabilidade e segurança.  
 Tenho experiência em projetos que exigem visão de produto, domínio técnico e integração inteligente entre sistemas, especialmente nas áreas de automação, inteligência artificial e infraestrutura moderna.
 
 Atuo com tecnologias como Power Automate, React, Next.js, React Native, Flutter, NestJS, Java Spring Boot, Laravel, Python, Flask, Docker, Firebase e práticas de CI/CD. Também gerencio servidores Linux e infraestrutura com Traefik, garantindo ambientes leves, estáveis e com deploys automatizados.
