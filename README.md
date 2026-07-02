@@ -13,6 +13,1118 @@
 
 ---
 
+<!---
+> [!IMPORTANT]
+>
+> **Já somos o repositório nº 1 em Angola. Agora vamos ao mundo!**
+>
+> ⭐ Deixe uma estrela • 👤 Siga o projeto • 📢 Partilhe com a comunidade
+>
+> Cada apoio conta para levar o talento angolano mais longe.
+<br>
+<br>
+
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+--->
+
+<!--- TYPING + STREAK --->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FC923E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!;Hello+World!)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katumbela&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=FC923E&fire=FC923E&currStreakLabel=FC923E)](https://git.io/streak-stats)
+
+</div>
+
+
+<!--- BADGES IN TABLE WITH INVISIBLE BORDERS --->
+<div align="center">
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola/katumbela">
+        <img src="https://user-badge.committers.top/angola/katumbela.svg" alt="Angola Overall">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide/katumbela">
+        <img src="https://user-badge.committers.top/worldwide/katumbela.svg" alt="Worldwide Overall">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_public/katumbela">
+        <img src="https://user-badge.committers.top/angola_public/katumbela.svg" alt="Angola Public">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_public/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_public/katumbela.svg" alt="Worldwide Public">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/angola_private/katumbela">
+        <img src="https://user-badge.committers.top/angola_private/katumbela.svg" alt="Angola Private">
+      </a>
+    </td>
+    <td style="border:none; padding:4px;" align="center">
+      <a href="https://user-badge.committers.top/worldwide_private/katumbela">
+        <img src="https://user-badge.committers.top/worldwide_private/katumbela.svg" alt="Worldwide Private">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+<!--- PROFILE VISITS --->
+
+<div align="right">
+  
+![Profile](https://komarev.com/ghpvc/?username=katumbela&style=flat-square&color=orange&abbreviated=true&label=profile+views)
+
+</div>
+
+
+
+
+<!-- TROPHIES
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=katumbela&title=Commits,PullRequest,Stars,Followers&margin-w=15&column=-1" />
+
+-->
+
+
+---
+
 ## 🧠 Sobre Mim  
 Sou Analista de Inovação e Arquiteto de Automação no setor bancário e engenheiro de software com atuação sólida em soluções web, mobile e desktop, sempre com foco em performance, escalabilidade e segurança.  
 Tenho experiência em projetos que exigem visão de produto, domínio técnico e integração inteligente entre sistemas, especialmente nas áreas de automação, inteligência artificial e infraestrutura moderna.
